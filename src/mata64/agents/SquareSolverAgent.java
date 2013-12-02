@@ -8,5 +8,7 @@ package mata64.agents;
 import jade.core.*;
 
 public class SquareSolverAgent extends Agent {
+	
+	//testando commit
 
 }
