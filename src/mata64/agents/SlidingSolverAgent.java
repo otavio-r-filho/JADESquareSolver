@@ -9,7 +9,7 @@ public class SlidingSolverAgent extends Agent{
 		
 		addBehaviour(new SlidingSolver(this, new Integer[][]{{0, 4, 2}, {1, 3, 7}, {6, 8, 5}}));
 		
-		doDelete();
+		//doDelete();
 	}
 	
 	protected void takeDown(){
